@@ -6,7 +6,7 @@ logo: /image/asryflorist.jpg
 url: "https://m.asryflorist.com"
 baseurl: ''
 google_analytics: UA-97740878-1
-theme: # leave it empty
+theme: jekyll-theme-minimal
 
 # the little icon that appears in the browser window's tab
 favicon: favicon.png
