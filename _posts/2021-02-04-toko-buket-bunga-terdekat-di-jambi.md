@@ -4,13 +4,13 @@ title: Toko Bunga Terdekat di Jambi
 tagline: Papan Bunga Jambi Murah Online 081396353338
 description: Kirim Bunga Papan dan Bunga Mawar Buket di Jambi kini semakin mudah dan simpel karena hadirnya salah satu florist jambi terbaik.
 tags: [tokobunga]
-image: /toko-bunga-jambi.png
+image: /image/toko-bunga-jambi.png
 author: Asry Florist
 toc: true
 galleries:
   - title: Toko Bunga Jambi
-    image: /image/toko-bunga-jambi.jpg
-    url: /image/toko-bunga-jambi.jpg
+    image: /image/toko-bunga-jambi.png
+    url: /image/toko-bunga-jambi.png
 ---
 
 ## PAPAN BUNGA JAMBI 
