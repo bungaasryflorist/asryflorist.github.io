@@ -31,6 +31,7 @@ layout: default
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
+    {% if page.galleries %}{% include image-gallery-index.html %}{% endif %}
     {{ content }}
   </div>
 
@@ -85,7 +86,7 @@ layout: default
       {% endif %}
     </nav>
   </footer>
-{% if page.galleries %}{% include image-gallery-index.html %}{% endif %}
+
   {% if site.disqus.shortname %}
     {% include disqus.html %}
   {% endif %}
