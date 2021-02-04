@@ -7,6 +7,10 @@ tags: [tokobunga]
 image: /toko-bunga-jambi.png
 author: Asry Florist
 toc: true
+galleries:
+  - title: Toko Bunga Jambi
+    image: /image/toko-bunga-jambi.jpg
+    url: /image/toko-bunga-jambi.jpg
 ---
 
 ## PAPAN BUNGA JAMBI 
