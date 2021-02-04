@@ -85,7 +85,7 @@ layout: default
       {% endif %}
     </nav>
   </footer>
-
+{% if page.galleries %}{% include image-gallery-index.html %}{% endif %}
   {% if site.disqus.shortname %}
     {% include disqus.html %}
   {% endif %}
