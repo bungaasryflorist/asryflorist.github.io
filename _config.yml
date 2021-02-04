@@ -1,6 +1,37 @@
+# Site setting
 title: ASRY FLORIST
-description: KARANGAN BUNGA UCAPAN & BUKET MAWAR SEGAR/PLASTIK - 081396353338
+description: KARANGAN BUNGA UCAPAN & BUKET MAWAR SEGAR/PLASTIK  081396353338
+keyword: bunga, buket, asryflorist, karanganbunga, papanbunga, tokobunga, rangkaianbunga
 logo: /image/asryflorist.jpg
-show_downloads: 'true'
+url: "https://m.asryflorist.com"
+baseurl: ''
 google_analytics: UA-97740878-1
-theme: jekyll-theme-minimal
+theme: # leave it empty
+
+# the little icon that appears in the browser window's tab
+favicon: favicon.png
+
+# Build setting
+markdown: kramdown
+permalink: /:title
+
+locale: "id-ID"
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+m.asryflorist.com:
+  date_format: "%b %-d, %Y"
+
+# social
+twitter:
+  username: AsryFlorist
+
+# Disqus Comments
+disqus:
+  # Leave shortname blank to disable comments site-wide.
+  # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+  shortname: asryflorist-2
