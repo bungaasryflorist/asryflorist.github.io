@@ -4,7 +4,6 @@ title: Toko Bunga Terdekat di Tanjung Morawa
 tagline: Papan Bunga Tanjung Morawa Murah Online 081396353338
 description: Kirim Bunga Papan dan Bunga Mawar Buket di Tanjung Morawa kini semakin mudah dan simpel karena hadirnya salah satu florist tanjung morawa terbaik.
 tags: [tokobunga][papanbunga][karanganbunga]
-categories: papanbunga
 image: /image/bunga-segar.jpg
 author: Asry Florist
 toc: true
@@ -65,4 +64,4 @@ bangun rejo, aek pancur, naga timbul, lengau seprang, tanjung mulia, punden rejo
 
 Untuk alamat pengiriman anda nanti yang belum tertera di blog toko bunga tanjung morawa florist ini, bisa menghubungi admin kami di 081396353338, telpon, sms, dan whatsapp.
 
-atau untuk melihat produk lengkapnya bisa klik web kami di [Link Toko Bunga tanjung morawa](https://www.tokobungaasryflorist.com/ "toko bunga di tanjung morawa")
+atau untuk melihat produk lengkapnya bisa klik web kami di [Link Toko Bunga tanjung morawa](https://www.tokobungaasryflorist.com "toko bunga di tanjung morawa")
