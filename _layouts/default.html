@@ -2,10 +2,12 @@
 <html lang="{{ page.lang | default: site.lang | default: "id" }}">
 
   <head>
+    {% include gtm-head.html %}
     {% include head.html %}
   </head>
 
   <body>
+   {% include gtm-body.html %}
     <div class="site-container">
       <header class="site-header">
         {% include header.html %}
