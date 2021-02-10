@@ -1,6 +1,6 @@
 <div class="rect">
 
-  {% assign maxRelated = 4 %}
+  {% assign maxRelated = 3 %}
   {% assign minCommonTags =  1 %}
   {% assign maxRelatedCounter = 0 %}
 
@@ -22,12 +22,11 @@
     {% endfor %}
 
     {% if sameTagCount >= minCommonTags %}
-
+           <b>Tulisan Terkait:</b>
           <a href="{{ site.baseurl }}{{ post.url }}">
               <div class="rel">
-                  <b>Tulisan Terkait:</b>
                   <h5>{{ post.title }}</h5>
-                  <img width="100%" src="/image/header.png">
+                  <img width="50%" src="/image/header.png">
               </div>
           </a>
 
@@ -47,7 +46,7 @@
 }
 
 .rel {
-    width: 200px;
+    width: 150px;
     display: inline-block;
     padding: 5px;
     opacity: 0.8;
