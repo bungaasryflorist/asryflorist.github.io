@@ -6,10 +6,10 @@ layout: default
 
   <header class="post-header">
     {%- if page.image -%}
-      <img src="{{- page.image | relative_url -}}" alt="{{ page.title | escape }}" class="featured-image-post">
+      <img src="{{- page.image | relative_url -}}" alt="{{ post.image }}" class="featured-image-post">
     {%- else -%}
       {%- assign postImage = "/image/header.png" -%}
-      <img src="{{- postImage | relative_url -}}" alt="{{ page.title | escape }}" class="featured-image-post">
+      <img src="{{- postImage | relative_url -}}" alt="{{ post.image }}" class="featured-image-post">
     {%- endif -%}
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
@@ -123,7 +123,7 @@ layout: default
                 </header>
                 <section>
                 <a href="{{ site.baseurl }}{{ post.url }}">
-                    <img width="320" height="200" src="{{ post.image }}" 
+                    <img width="120" height="100" src="{{ post.image }}" 
                     class="img-fluid" alt="{{ post.image }}" />
                 </a>
                 </section>
@@ -137,7 +137,7 @@ layout: default
 {% assign relatedPosts = posts | split: '|' | sort | reverse %}
 
 <header>
-    <h4>You might also like:</h4>
+    <h4>Tulisan Terkait:</h4>
     <hr>
 </header>
 
