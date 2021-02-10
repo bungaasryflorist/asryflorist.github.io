@@ -5,6 +5,7 @@ avatar: /logo.png
 email: asry.florist27@gmail.com
 url: "https://m.asryflorist.com"
 baseurl: # the subpath of your site, e.g. "/blog"
+permalink: /:tags/:title.html
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
