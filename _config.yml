@@ -3,7 +3,8 @@ description: Kirim Karangan Bunga Ucapan, buket mawar segar & plastik, murah onl
 author: Asry Florist
 avatar: /logo.png
 email: asry.florist27@gmail.com
-
+url: "https://m.asryflorist.com"
+baseurl: "/blog" # the subpath of your site, e.g. "/blog"
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
@@ -11,7 +12,7 @@ plugins:
   - jekyll-paginate
   - jekyll-image-size
 
-paginate: 10
+paginate: 5
 
 # Uncomment the below line and set the tracking ID for enabling Google Analytics
 # 
