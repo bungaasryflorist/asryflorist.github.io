@@ -23,6 +23,11 @@ galleries:
   - title: bunga segar
     image: /image/bunga-segar.jpg
     url: /image/bunga-segar.jpg
+redirect_from:
+  - /tentang-kota-medan-di-toko-bunga-asry-florist.html
+  - /toko-bunga-medan-sedia-buket-mawar-segar-wisuda
+  - /toko-papan-bunga-medan-asry-florist.html
+permalink: /:title.html
 ---
 
 ## PAPAN BUNGA MEDAN
