@@ -23,6 +23,10 @@ galleries:
   - title: bunga segar
     image: /image/bunga-segar.jpg
     url: /image/bunga-segar.jpg
+redirect_from:
+  - /2016-05-20-my-example-post.html
+  - /2021-02-09-toko-bunga-binjai.html
+permalink: /:title.html
 ---
 
 ## PAPAN BUNGA BINJAI
