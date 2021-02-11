@@ -12,6 +12,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-image-size
+  - jekyll-redirect-from
 
 paginate: 5
 
