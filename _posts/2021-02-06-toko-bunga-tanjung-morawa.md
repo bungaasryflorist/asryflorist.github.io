@@ -23,6 +23,9 @@ galleries:
   - title: bunga segar
     image: /image/bunga-segar.jpg
     url: /image/bunga-segar.jpg
+redirect_from:
+  - /2021/02/06/toko-bunga-tanjung-morawa.html
+permalink: /:title.html
 ---
 
 ## PAPAN BUNGA TANJUNG MORAWA
