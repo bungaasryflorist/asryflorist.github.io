@@ -23,6 +23,11 @@ galleries:
   - title: bunga segar
     image: /image/bunga-segar.jpg
     url: /image/bunga-segar.jpg
+redirect_from:
+  - /junk/2016/05/20/this-post-demonstrates-post-content-styles.html
+  - /2021/02/04/toko-buket-bunga-terdekat-di-jambi.html
+  - /category/toko-bunga-jambi
+permalink: /:title.html
 ---
 
 ## PAPAN BUNGA JAMBI 
