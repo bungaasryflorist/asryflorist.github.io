@@ -28,9 +28,6 @@ redirect_from:
   - /2016-01-11-task-item-list.html
   - /2021-02-11-toko-bunga-siantar.html
 permalink: /:title.html
-redirect_to:
-  - https://m.asryflorist.com/toko-buket-bunga-pematang-siantar.html
-permalink: /:title.html
 ---
 
 ## PAPAN BUNGA SIANTAR
