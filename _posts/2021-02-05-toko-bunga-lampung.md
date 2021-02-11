@@ -23,6 +23,9 @@ galleries:
   - title: bunga segar
     image: /image/bunga-segar.jpg
     url: /image/bunga-segar.jpg
+redirect_from:
+  - /2021/02/05/toko-bunga-lampung.html
+permalink: /:title.html
 ---
 
 ## PAPAN BUNGA LAMPUNG
