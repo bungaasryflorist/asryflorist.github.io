@@ -32,36 +32,16 @@ permalink: /:title.html
 ---
 
 ## PAPAN BUNGA SIANTAR
-Ini adalah tulisan awal perdana dari blog toko bunga di siantar asry florist, yang mencoba membuka pasar atau jualan online di internet, dikarenakan banyaknya permintaan dari
+Blog toko bunga di siantar asry florist, yang mencoba membuka pasar atau jualan online di internet, dikarenakan banyaknya permintaan dari
 konsumen yang merasa kesulitan untuk pengiriman di dalam kota siantar, khususnya bagi konsumen yang berada dari luar kota.
-
-Sama seperti beberapa daerah yang berada di sebagian pulau sumatera, untuk jenis produk karangan bunga ucapan di kota siantar terdiri dari beberapa macam, diantaranya
-adalah sebagai berikut
-- pernikahan
-- pelantikan
-- peresmian
-- ulang tahun
-- wisuda
-- syukuran
-- belasungkawa
-- pengkhitanan
-- penabalan nama
 
 ## RANGKAIAN BUNGA SEGAR SIANTAR
 
-Begitu juga untuk konsumen yang ingin memesan selain produk karangan bunga papan ucapan, di blog toko bunga siantar ini pun turut kami cantumkan beberapa jenis florist rangkaian bunga segar, sebagai berikut
-1. bunga meja
-2. bunga mawar
-3. bunga salib
-4. bunga standing
-5. krans bunga
-6. bunga buket
-7. bunga potong
-8. bunga tangan
+toko bunga siantar ini pun turut kami cantumkan beberapa jenis florist rangkaian bunga segar.
 
 ### ALAMAT JANGKAUAN KIRIM SIANTAR FLORIST
 
-Untuk daerah tujuan pesanan yang akan cantumkan ini adalah jangkauan pengiriman toko bunga siantar asry florist, yaitu meliputi
+jangkauan pengiriman toko bunga siantar asry florist, yaitu meliputi
 
 ```
 bantan, banjar, simarito, sipinggol pinggol, teladan, timbang galung, proklamasi, dwikora, marihat, sukamaju, pardamean, sukaraja, bp nauli, nagahuta, simarimbun, bukit shofa, nagapita, gurilla, pondok sayur, setia negara, sumber jaya, tambun nabolon, bah kapul, simalungun, karo, toba, kristen, martimbang, aek nauli, pahlawan, tomuan, kebun sayur, merdeka, asahan, siopat suhu, sigulang gulang, bane, martoba, melayu, baru, sukadame, kahean.
