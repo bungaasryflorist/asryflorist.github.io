@@ -6,6 +6,7 @@ layout: default
 
   <header class="post-header">
     {% include search-google.html %}
+    {% include ratings.html %}
     {%- if page.image -%}
       <img src="{{- page.image | relative_url -}}" alt="{{ post.image }}" class="featured-image-post">
     {%- else -%}
